@@ -17,6 +17,9 @@ You will need packages in the requirements.txt files and an installation of olla
 Please have a look to the configuration file navirc.
 
 
+Due to github limitations, the model.pth file is stored on google drive at the following link:
+https://drive.google.com/file/d/1zxqJQgWJNvfewB5VIO2fFcKCpjqhQF9f/view?usp=sharing
+
 
 COMPLIANCE, NAVIGATOR!
 
