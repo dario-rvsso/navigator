@@ -1,0 +1,3 @@
+[settings]
+FINETUNIG_LOG =/tmp/navi_finetuning.json
+COMMENT_AI_MODEL = llama3.1:8b
